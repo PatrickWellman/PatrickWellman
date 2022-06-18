@@ -22,21 +22,21 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
+- 📍: Located in the Los Angeles 🌴.
 
 - :telescope: I’m currently working as a Software Engineer leveraging my skills in React.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I go hiking and read tech articles.
+- :zap: In my free time, I go hiking 🥾 and read tech articles 📰.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-patrickwellman-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/patrick-wellman-1533551a2/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PatrickWellman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-wellman-1533551a2/)
 
 ---
 
 
 ### :hammer_and_wrench: Technologies :
 <div>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -60,8 +60,8 @@
 ---
 
 ### :fire: My Stats :
-<div>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</div>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patrickwellman&theme=chartreuse-dark&date_format=n%2Fj%5B%2FY%5D)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/patrickwellman/github-readme-stats)
+
+### Let's connect : 
+[![Linkedin Badge](https://img.shields.io/badge/-PatrickWellman-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/patrick-wellman-1533551a2/))
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=Gmail&logoColor=white)]([mailto:pwellmancode@gmail.com](mailto:pwellmancode@gmail.com))
