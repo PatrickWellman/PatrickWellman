@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    hello world 👋
+  </h1>
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" />
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/patrick-wellman-1533551a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-patrickwellman&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=your-github-patrickwellman&style=flat-square&color=blue" alt=""/>
 </div>
-
-<h1 align="center">
-  hello world 👋
-</h1>
-
 
 
 ### :man_technologist: About Me :
@@ -29,8 +27,6 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I go hiking 🥾 and read tech articles 📰.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PatrickWellman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-wellman-1533551a2/)
 
 ---
 
@@ -54,7 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
  title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" **alt="Sequelize" width="40" height="40" />
-
 </div>
 
 ---
@@ -62,6 +57,8 @@
 ### :fire: My Stats :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patrickwellman&theme=chartreuse-dark&date_format=n%2Fj%5B%2FY%5D)
 
-### Let's connect : 
-[![Linkedin Badge](https://img.shields.io/badge/-PatrickWellman-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/patrick-wellman-1533551a2/))
+---
+
+### Lets connect
+[![Linkedin Badge](https://img.shields.io/badge/-PatrickWellman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-wellman-1533551a2/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=Gmail&logoColor=white)](mailto:pwellmancode@gmail.com)
