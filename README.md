@@ -2,17 +2,13 @@
   <h1>
     hello world 👋
   </h1>
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" />
-</div>
-<div id="badges" align="center">
+  <div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-patrickwellman&style=flat-square&color=blue" alt=""/>
+  </div>
   <a href="https://www.linkedin.com/in/patrick-wellman-1533551a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-patrickwellman&style=flat-square&color=blue" alt=""/>
-</div>
-
 
 ### :man_technologist: About Me :
 
@@ -26,7 +22,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I go hiking 🥾 and read tech articles 📰.
+- :zap: In my free time, I go hiking 🥾 and read science/tech articles 📰.
 
 ---
 
