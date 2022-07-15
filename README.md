@@ -16,13 +16,15 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
-- 📍 Located in the Los Angeles 🌴.
+- 📍 Located in Los Angeles 🌴
 
-- :telescope: I’m currently working as a Software Engineer leveraging my skills in React.
+- 🎧 Always in search of new music
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I’m currently working as a Software Engineer
 
-- :zap: In my free time, I go hiking 🥾 and read science/tech articles 📰.
+- :seedling: Exploring Technical Content Writing
+
+- :zap: In my free time, I go hiking 🥾 and read science/tech articles 📰
 
 ---
 
