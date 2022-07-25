@@ -2,12 +2,6 @@
   <h1>
     hello world 👋
   </h1>
-  <div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-patrickwellman&style=flat-square&color=blue" alt=""/>
-  </div>
-  <a href="https://www.linkedin.com/in/patrick-wellman-1533551a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 
 ### :man_technologist: About Me :
@@ -27,6 +21,15 @@
 - :zap: In my free time, I go hiking 🥾 and read science/tech articles 📰
 
 ---
+
+<div align="center">
+<div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-patrickwellman&style=flat-square&color=blue" alt=""/>
+</div>  
+  <a href="https://www.linkedin.com/in/patrick-wellman-1533551a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 ### :hammer_and_wrench: Technologies :
