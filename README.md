@@ -7,14 +7,12 @@
 ### :man_technologist: About Me :
 
 <div>
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Sr. Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
 - 📍 Located in Nashville 
 
 - 🎧 Always in search of new music
-
-- :telescope: Sr. Software Engineer
 
 - :seedling: Exploring Technical Content Writing
 
