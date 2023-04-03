@@ -10,11 +10,11 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
-- 📍 Located in Los Angeles 🌴
+- 📍 Located in Nashville 
 
 - 🎧 Always in search of new music
 
-- :telescope: I’m currently working as a Software Engineer
+- :telescope: Sr. Software Engineer
 
 - :seedling: Exploring Technical Content Writing
 
