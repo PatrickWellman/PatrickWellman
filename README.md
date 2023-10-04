@@ -55,11 +55,6 @@
 
 ---
 
-### :fire: My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patrickwellman&theme=chartreuse-dark&date_format=n%2Fj%5B%2FY%5D)
-
----
-
 ### Let's connect :
 [![Linkedin Badge](https://img.shields.io/badge/-PatrickWellman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-wellman-1533551a2/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=Gmail&logoColor=white)](mailto:pwellmancode@gmail.com)
