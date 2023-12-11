@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 <div>
   Sr. Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
