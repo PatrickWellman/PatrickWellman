@@ -14,8 +14,6 @@
 
 - 🎧 Always in search of new music
 
-- :seedling: Exploring Technical Content Writing
-
 - :zap: In my free time, I go hiking 🥾 and read science/tech articles 📰
 
 ---
